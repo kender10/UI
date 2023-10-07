@@ -1,0 +1,103 @@
+
+	{
+	"ServerName":"EXODUZ",
+	"ButtonTxt1":"Bienvenidos",
+	"ButtonTxt2":"Reglas",
+	"ButtonTxt3":"Información",
+	"ButtonTxt4":"",
+	"ButtonTxt5":"",
+	"LinkButtonTxt1":"DISCORD",
+	"LinkButtonTxt2":"DONATE",
+	"LinkButtonTxt3":"",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"https://discord.gg/Er5eFqUejM",
+	"LinkButton2":"https://paypal.me/kender102",
+	"Link1Button3":"",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":1,
+	"Tab2Panelcount":1,
+	"Tab3Panelcount":1,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":0,
+	"BackgroundTab2":0,
+	"BackgroundTab3":0,
+	"BackgroundTab4":0,
+	"BackgroundTab5":0,
+	"Background3Color":"186,0,192,0.5",
+	"FontColorButtons":"0,255,255",
+	"FontColorServerName":"255,0,127",
+	"FontColorTabTitles":"0,204,204",
+	"FontColorTabText":"255,153,255",
+	"UseSteamBrowserLink1":false,
+	"UseSteamBrowserLink2":false,
+	"Tab1Title1":"Bienvenidos",
+	"Tab1Title2":"",
+	"Tab1Title3":"",
+	"Tab2Title1":"Reglas Generales",
+	"Tab2Title2":"",
+	"Tab2Title3":"",
+	"Tab3Title1":"Información",
+	"Tab3Title2":"",
+	"Tab3Title3":"",
+	"Tab4Title1":"",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"Bienvenidos al servidor EXODUZ
+
+
+    Este es un servidor de ARK en el mapa Fjordur para jugar entre amigos y conocidos, diviértanse :D
+    
+    Este servidor contará con eventos y áreas de distintos tipos, entre ellos están: Mercado, Subastas, Minijuegos, etc...
+    
+    Únete ya a nuestro servidor de Discord, por allí avisaremos sobre futuros eventos ;)
+    
+    
+                                                (leer las Reglas antes de jugar)",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"
+
+
+    1. Está prohibido el Raideo (A excepción de un evento dentro del servidor)
+    2. Se proíbe el mal comportamiento o toxicidad masiva 
+    3. Prohibido el matar Boses (A excepción de un evento dentro del servidor)
+    4. Se prohíbe el robar a cadáveres (especialmente en el mercado o eventos)
+    5. Se prohíbe el uso de bugs, glitches o exploits para conseguir objetos o esconder bases fuera de mapa
+    6. Se permite realizar bugs para animales salvajes (SOLO) con el fin de domarlos
+    7. Se prohíbe el asesinato de animales de otra tribu
+    8. Se prohíbe el PVP dentro de la zona de mercado o eventos
+    9. Está prohibido matar animales tameados dentro del mercado o durante un evento
+    10. Está prohibido destruir estructuras de mercado o eventos así como matar animales del mercado
+    
+    Cualquier incumplimiento de estas normas será sancionado con BAN",
+	"Tab2Text2":"",
+	"Tab2Text3":"",
+	"Tab3Text1":"Detalles: 
+    PVP, recolección x15, dificultad x7, algunos enagramas deshabilitados, algunos ítems de mods se obtienen unicamente comprandolos en el mercado. 
+    
+    Mods incluidos:
+    S+, Awesome teleporters, Awesome Spyglass, Currency Mod (5 mods), Glass metal, Dino Colourizer, Ultra Stacks, Gacha Cristal Collector, Upgrade Station, Death Helper, Egg N Poop Collector / Incubator.",
+	"Tab3Text2":"",
+	"Tab3Text3":"",
+	"Tab4Text1":"",
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	}
